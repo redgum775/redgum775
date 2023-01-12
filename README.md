@@ -1,4 +1,4 @@
-### GitHub Stats & Top Languages
+### GitHub Profile Summary Cards
 <img alt="redgum775(Redgum)" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=redgum775&theme=github_dark" />
 <p align="left"> 
     <img alt="Top Langs by repo" height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=redgum775&theme=github_dark&count_private=true&hide=Jupyter%20Notebook" />
